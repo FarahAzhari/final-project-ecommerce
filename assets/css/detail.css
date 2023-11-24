@@ -1,0 +1,79 @@
+.container-details {
+  max-width: 75%;
+  margin: auto;
+  height: 80vh;
+  margin-top: 7%;
+  background: white;
+  box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.3);
+}
+
+.left, .right {
+  width: 50%;
+  padding: 30px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex1 {
+  display: flex;
+}
+
+.right {
+  padding: 50px 100px 50px 50px;
+}
+
+h3#judul{
+  color: #14433c;
+  margin: 20px 0 20px 0;
+  font-size: 25px;
+}
+
+button.add-btn{
+  width: 100%;
+  padding: 10px;
+  border: none;
+  outline: none;
+  background: #14433c;
+  color: white;
+  margin-top: 20%;
+  border-radius: 30px;
+}
+
+input.add-input:focus{
+  box-sizing: border-box;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  border: 1px solid #555;
+}
+
+@media only screen and (max-width:768px) {
+  .container-details {
+    max-width: 90%;
+    margin: auto;
+    height: auto;
+  }
+
+  .left, .right {
+    width: 100%;
+  }
+
+  .container-details {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width:511px) {
+  .container-details {
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+  }
+
+  .left, .right {
+    padding: 0;
+  }
+}
