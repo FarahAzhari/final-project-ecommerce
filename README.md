@@ -1,7 +1,7 @@
 # final-project-ecommerce
 This project is a final assignment for "Web Programming Bootcamp PPKD Jakarta Barat Collaborating with Plan International Indonesia" 
 
-![image](https://github.com/FarahAzhari/android-bt/assets/116514965/d8b5374d-a8d0-4394-b062-5fe24df57a98)
+![image](https://github.com/FarahAzhari/android-bt/assets/116514965/8bd412f2-2b76-4adb-b5ef-2f3408543f33)
 
 ![image](https://github.com/FarahAzhari/android-bt/assets/116514965/4cb14fdb-08b4-4d18-b213-75025e16f9a7)
 
